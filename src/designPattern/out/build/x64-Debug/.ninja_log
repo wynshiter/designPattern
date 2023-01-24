@@ -1,0 +1,10 @@
+# ninja log v5
+1	286	6962751148832400	CMakeFiles/designPattern.dir/designPattern.cpp.obj	33517210fbfe9079
+287	595	6962751151742312	designPattern.exe	465806c102fa7ec3
+0	287	6962754884196605	CMakeFiles/designPattern.dir/designPattern.cpp.obj	33517210fbfe9079
+1	418	6962757803282697	CMakeFiles/designPattern.dir/designPattern.cpp.obj	33517210fbfe9079
+1	279	6962759347629086	CMakeFiles/designPattern.dir/designPattern.cpp.obj	33517210fbfe9079
+0	405	6962762627012981	CMakeFiles/designPattern.dir/designPattern.cpp.obj	33517210fbfe9079
+406	556	6962762628162995	designPattern.exe	465806c102fa7ec3
+0	284	6962763314461001	CMakeFiles/designPattern.dir/designPattern.cpp.obj	33517210fbfe9079
+284	430	6962763315630937	designPattern.exe	465806c102fa7ec3
